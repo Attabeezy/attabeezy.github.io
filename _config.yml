@@ -1,0 +1,108 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Benjamin Ekow Attabra
+title: KNUST Undergraduate Student
+email: beattabra@st.knust.edu.gh
+website: attabeezy.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: benattabra
+github_username:  attabeezy
+stackoverflow_username: "27450700"
+# dribbble_username: jekyll
+# flickr_username: jekyll
+instagram_username: attabeezy
+linkedin_username: ben-attabra
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+orcid_username: 0009-0008-6963-5422
+
+# Additional icon links
+additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I'm an undergraduate student at the Kwame Nkrumah University of Science and Technology studying [Telecom Engineering](https://teleng.knust.edu.gh/) in the [Faculty of Electrical and Computer Engineering](https://coe.knust.edu.gh/faculties/faculty-electrical-computer-engineering). My interests spans across research and development in Quantitative Finance, Applied Machine Learning, and Artificial Intelligence. Specifically, I work on developing smart real-world applications using machine learning techniques that are unique to each problems reflect both knowledge and action under the mentorship of [Dr. Francisca Adoma Acheampong](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/fb34c7d09958.html). I also have experience in mathematical modeling for applications in predicting market capitalization and identifying arbitrage betting opportunities [See my ResearchGate](https://www.researchgate.net/profile/Benjamin-Attabra/research).
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        border: weak
+        title: Data Engine
+        # link_text: Project Website
+        quote: >
+          Cause if you ain't doing what you love it's only you to blame
+        description: | # this will include new lines to allow paragraphs
+          An interactive data science toolkit built with Streamlit provides data exploration, transformation, and model training capabilities. Users can upload datasets, visualize data with pairplots and boxplots, handle missing values, scale features, and encode categorical variables.
+      - layout: top-middle
+        border: weak
+        title: Credit Scoring and Segmentation using Python
+        link_text: https://credit-scorer.streamlit.app/
+        quote: >
+          Call my unborn son and tell him that's the mission
+        description: |
+          A Streamlit Tool that uses inputs payment history, credit utilization, credit accounts, education, and employment status to calculate a user’s credit score. A KMeans model further categorizes users into credit segments with tailored advice.
+      - layout: top-middle
+        border: weak
+        title: Disease Prediction based on symptoms
+        link_text: https://health-predictor.streamlit.app/
+        quote: >
+          Found my position, let's hit the road
+        description: |
+         A machine learning-based web application built with Streamlit to predict diseases based on user-selected symptoms. This project uses a trained Support Vector Machine (SVM) model, a scaler, and a label encoder to provide accurate predictions.
+
+  - title: Experience
+    layout: text
+    content: |
+        - Quantitative Research, Forage (JPMorgan Chase & Co), Virtual Experience:
+        October 2024
+        •	Completed a simulation focused on quantitative research methods
+        •	Analyzed a book of loans to estimate a customer's probability of default
+        •	Used dynamic programming to convert FICO scores into categorical data to predict defaults
+
+        - Data Analytics Intern, Forage (Quantium), Virtual Experience:
+        March 2025
+        • Utilized transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
+        • Identified benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
+        • create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
