@@ -47,7 +47,7 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm an undergraduate student at the Kwame Nkrumah University of Science and Technology studying [Telecom Engineering](https://teleng.knust.edu.gh/) in the [Faculty of Electrical and Computer Engineering](https://coe.knust.edu.gh/faculties/faculty-electrical-computer-engineering). My interests spans across research and development in Quantitative Finance, Applied Machine Learning, and Artificial Intelligence. Specifically, I work on developing smart real-world applications using machine learning techniques that are unique to each problems reflect both knowledge and action under the mentorship of [Dr. Francisca Adoma Acheampong](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/fb34c7d09958.html). I also have experience in mathematical modeling for applications in predicting market capitalization and identifying arbitrage betting opportunities [See my ResearchGate](https://www.researchgate.net/profile/Benjamin-Attabra/research).
+  I'm an undergraduate student at the Kwame Nkrumah University of Science and Technology studying [Telecom Engineering](https://teleng.knust.edu.gh/) in the [Faculty of Electrical and Computer Engineering](https://coe.knust.edu.gh/faculties/faculty-electrical-computer-engineering). I am deeply interested in conducting research and building projects within the fields of Applied Machine Learning and Quantitative Finance. Currently, I work on developing smart, real-world applications using machine learning techniques that are unique to each problem, reflecting both knowledge and action under the mentorship of [Dr. Francisca Adoma Acheampong](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/fb34c7d09958.html). I also have experience in mathematical modeling for applications in predicting market capitalization and identifying arbitrage betting opportunities [See My ResearchGate](https://www.researchgate.net/profile/Benjamin-Attabra/research).
 
 content:
   - title: Projects # Title for the section
@@ -94,17 +94,15 @@ content:
   - title: Experience
     layout: text
     content: |
-        - Quantitative Research, Forage (JPMorgan Chase & Co), Virtual Experience:
-        October 2024
-        •	Completed a simulation focused on quantitative research methods
-        •	Analyzed a book of loans to estimate a customer's probability of default
-        •	Used dynamic programming to convert FICO scores into categorical data to predict defaults
+        [Quantitative Research, Forage (JPMorgan Chase & Co), Virtual Experience - October 2024](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._BiFrcQzs4S9huhHGM_1728733265196_completion_certificate.pdf):
+        - Completed a simulation focused on quantitative research methods
+        - Analyzed a book of loans to estimate a customer's probability of default
+        - Used dynamic programming to convert FICO scores into categorical data to predict defaults
 
-        - Data Analytics Intern, Forage (Quantium), Virtual Experience:
-        March 2025
-        • Utilized transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
-        • Identified benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
-        • create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+        [Data Analytics Intern, Forage (Quantium), Virtual Experience - March 2025](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_BiFrcQzs4S9huhHGM_1743333311609_completion_certificate.pdf):
+        - Utilized transaction datasets to extract valuable insights and deliver data-driven commercial recommendations
+        - Identified benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making
+        - Create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
 
 # Footer
 footer_show_references: false
