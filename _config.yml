@@ -78,6 +78,19 @@ content:
         description: |
          A machine learning-based web application built with Streamlit to predict diseases based on user-selected symptoms. This project uses a trained Support Vector Machine (SVM) model, a scaler, and a label encoder to provide accurate predictions.
 
+  - title: Papers # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: "2023"
+        description: |
+            **Benjamin Ekow Attabra** (2023). [Market Capitalization Forecasting with Annuity Due Models](https://www.researchgate.net/publication/387671507_Market_Capitalization_Forecasting_with_Annuity_Due_Models). This paper presents a mathematical model for estimating the future market capitalization of public companies by adapting the future value of annuity due formula. Our findings suggest that this modified annuity due model can serve as a valuable tool for investors and analysts in making informed forecasts about company valuations.
+
+      - layout: left
+        title: 
+        description: |
+            **Benjamin Ekow Attabra** (2023). [Mathematical Analysis of Multi-Outcome Sports Betting Arbitrage: A System of Equations Approach](https://www.researchgate.net/publication/387671984_Mathematical_Analysis_of_Multi-Outcome_Sports_Betting_Arbitrage_A_System_of_Equations_Approach). This paper introduces a mathematical framework for identifying arbitrage opportunities in three-outcome sports betting markets. By utilizing systems of simultaneous equations, we develop a method for optimal stake allocation across bookmakers.
+
   - title: Experience
     layout: text
     content: |
