@@ -74,7 +74,7 @@ content:
           A Streamlit Tool that uses inputs payment history, credit utilization, credit accounts, education, and employment status to calculate a user’s credit score. A KMeans model further categorizes users into credit segments with tailored advice.
       - layout: top-middle
         border: weak
-        title: Disease Prediction based on symptoms
+        title: Disease Prediction based on Symptoms
         link_text: https://health-predictor.streamlit.app/
         quote: >
           Found my position, let's hit the road
