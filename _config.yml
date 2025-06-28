@@ -50,7 +50,8 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm an undergraduate student at the Kwame Nkrumah University of Science and Technology studying [Telecom Engineering](https://teleng.knust.edu.gh/) in the [Faculty of Electrical and Computer Engineering](https://coe.knust.edu.gh/faculties/faculty-electrical-computer-engineering). I am deeply interested in conducting research and building projects within the fields of Applied Machine Learning and Quantitative Finance. Currently, I work on developing smart, real-world applications using machine learning techniques that are unique to each problem, reflecting both knowledge and action under the mentorship of [Dr. Francisca Adoma Acheampong](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/fb34c7d09958.html). I also have experience in mathematical modeling for applications in predicting market capitalization and identifying arbitrage betting opportunities [See My ResearchGate](https://www.researchgate.net/profile/Benjamin-Attabra/research).
+  I am an undergraduate at the Kwame Nkrumah University of Science and Technology studying [Telecom Engineering](https://teleng.knust.edu.gh/) in the [Faculty of Electrical and Computer Engineering](https://coe.knust.edu.gh/faculties/faculty-electrical-computer-engineering) under the mentorship of [Dr. Francisca Adoma Acheampong](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/fb34c7d09958.html). 
+  I have interests in Machine Learning and Quant Finance, focusing on the application of machine learning techniques for problem-solving. Furthermore, I have experience in applying mathematical modeling to predict market capitalization and identify arbitrage betting opportunities. [ResearchGate](https://www.researchgate.net/profile/Benjamin-Attabra/research).
 
 content:
   - title: Projects # Title for the section
