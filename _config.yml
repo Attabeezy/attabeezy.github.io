@@ -62,7 +62,6 @@ content:
         border: weak
         title: Sequential Deep Learning for Credit Risk Modelling
         link_text: https://github.com/Attabeezy/sequential-crm-for-dce
-        # link_text: Project Website
         quote: >
           Cause if you ain't doing what you love it's only you to blame
         description: | # this will include new lines to allow paragraphs
@@ -82,7 +81,7 @@ content:
         quote: >
           Found my position, let's hit the road
         description: |
-         Contributed to a comprehensive quantitative risk engine in Python designed for calculating and simulating key financial risk metrics. The engine supports multiple estimation methods for Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR). Implemented Monte Carlo simulation capabilities to conduct portfolio stress testing and provide robust risk management analysis for various asset classes.
+          Contributed to a comprehensive quantitative risk engine in Python designed for calculating and simulating key financial risk metrics. The engine supports multiple estimation methods for Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR). Implemented Monte Carlo simulation capabilities to conduct portfolio stress testing and provide robust risk management analysis for various asset classes.
 
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
