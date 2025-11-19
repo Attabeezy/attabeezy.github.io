@@ -60,28 +60,29 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: Data Engine
+        title: Sequential Deep Learning for Credit Risk Modelling
+        link_text: https://github.com/Attabeezy/sequential-crm-for-dce
         # link_text: Project Website
         quote: >
           Cause if you ain't doing what you love it's only you to blame
         description: | # this will include new lines to allow paragraphs
-          An interactive data science toolkit built with Streamlit provides data exploration, transformation, and model training capabilities. Users can upload datasets, visualize data with pairplots and boxplots, handle missing values, scale features, and encode categorical variables.
+          Developing a Sequential Deep Learning framework for Credit Risk Modelling in data-constrained emerging markets. Leveraging Recurrent Neural Networks (RNNs), the model captures temporal dependencies in fragmented financial history data to significantly improve prediction accuracy over traditional methods.
       - layout: top-middle
         border: weak
-        title: Credit Scoring and Segmentation using Python
-        link_text: https://credit-scorer.streamlit.app/
+        title: SWELM: Semantic Weighting for Equitable Language Modeling
+        link_text: https://github.com/Attabeezy/semweight-equity
         quote: >
           Call my unborn son and tell him that's the mission
         description: |
-          A Streamlit Tool that uses inputs payment history, credit utilization, credit accounts, education, and employment status to calculate a user’s credit score. A KMeans model further categorizes users into credit segments with tailored advice.
+          Addressing equitable performance in multilingual NLP models (compatible with Llama 3, GPT). Designed and applied a novel Semantic Weighting and Adaptive Sampling strategy to dynamically adjust training distributions based on language representation quality.
       - layout: top-middle
         border: weak
-        title: Disease Prediction based on Symptoms
-        link_text: https://health-predictor.streamlit.app/
+        title: Quant Enthusiasts Risk Engine
+        link_text: https://github.com/Attabeezy/Quant-Enthusiasts-Risk-Engine
         quote: >
           Found my position, let's hit the road
         description: |
-         A machine learning-based web application built with Streamlit to predict diseases based on user-selected symptoms. This project uses a trained Support Vector Machine (SVM) model, a scaler, and a label encoder to provide accurate predictions.
+         Contributed to a comprehensive quantitative risk engine in Python designed for calculating and simulating key financial risk metrics. The engine supports multiple estimation methods for Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR). Implemented Monte Carlo simulation capabilities to conduct portfolio stress testing and provide robust risk management analysis for various asset classes.
 
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
